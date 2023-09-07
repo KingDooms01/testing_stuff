@@ -1,0 +1,10 @@
+@
+  Name: test
+  Description: this is a test
+  Item: diamond
+
+@
+comamnd /itworked:
+  permission: *
+  trigger:
+    send "yay" to player
