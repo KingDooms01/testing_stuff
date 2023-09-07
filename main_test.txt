@@ -1,10 +1,10 @@
 @ Info
-  Name: test
-  Description: this is a test
-  Item: diamond
+	Name: test
+	Description: this is a test
+	Item: diamond
 
 @ Code
 comamnd /itworked:
-  permission: *
-  trigger:
-    send "yay" to player
+	permission: *
+	trigger:
+		send "yay" to player
