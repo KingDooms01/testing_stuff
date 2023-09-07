@@ -1,9 +1,9 @@
-@
+@ Info
   Name: test
   Description: this is a test
   Item: diamond
 
-@
+@ Code
 comamnd /itworked:
   permission: *
   trigger:
