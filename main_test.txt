@@ -1,8 +1,9 @@
 @ Info
 	Name: test
-	Description: this is a test
-	- this is test2
-	- this is test3
+	Owner: KingDooms
+	Description: &dthis is &ca test
+	- this is &5test2
+	- this &ais test3
 	Item: diamond
 
 @ Code
