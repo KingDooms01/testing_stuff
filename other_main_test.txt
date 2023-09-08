@@ -1,0 +1,11 @@
+@ Info
+	Name: other_test
+	Owner: KingDooms
+	Description: &c&lOther test
+	Item: nether star
+
+@ Code
+command /diditwork:
+	permission: *
+	trigger:
+		send "yes it did" to player
