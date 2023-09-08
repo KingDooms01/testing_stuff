@@ -7,7 +7,7 @@
 	Item: diamond
 
 @ Code
-comamnd /itworked:
+command /itworked:
 	permission: *
 	trigger:
 		send "yay" to player
