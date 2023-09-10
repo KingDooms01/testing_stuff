@@ -4,6 +4,7 @@
 	Description: &dthis is &ca test
 	- this is &5test2
 	- this &ais test3
+	Version: 1.20.1
 	Item: diamond
 
 @ Code
