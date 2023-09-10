@@ -6,6 +6,8 @@
 	- this is &5test2
 	- this &ais test3
 	Version: 1.19.3
+	Dependecies:
+	- urmom
 	Item: diamond
 
 @ Code
