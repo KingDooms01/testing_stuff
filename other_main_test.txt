@@ -1,7 +1,8 @@
 @ Info
 	Name: other_test
 	Owner: KingDooms
-	Description: &c&lOther test
+	Description: 
+	- &c&lOther test
 	Version: 1.19.3
 	Item: nether star
 
