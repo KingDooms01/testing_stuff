@@ -1,7 +1,8 @@
 @ Info
 	Name: test
 	Owner: KingDooms
-	Description: &dthis is &ca test
+	Description: 
+	- &dthis is &ca test
 	- this is &5test2
 	- this &ais test3
 	Version: 1.19.3
