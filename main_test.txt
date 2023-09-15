@@ -1,17 +1,15 @@
 @ Info
-	Name: test
+	Name: Example
 	Owner: KingDooms
-	Description: 
-	- &dthis is &ca test
-	- this is &5test2
-	- this &ais test3
-	Version: 1.19.3
-	Dependencies:
-	- urmom
-	Item: diamond
+	Description:
+	- This is a test file
+	- used in the SFH discord
+	- for people to take use of.
+	Version: 1.19.4
+	Item: Nametag
 
 @ Code
-command /itworked:
+command /insertingthismightwork:
 	permission: *
 	trigger:
-		send "yay" to player
+		send "worked" to player
